@@ -1,0 +1,5 @@
+a = input()
+a = float(a)
+b = input()
+b = float(b)
+print('MEDIA = {:.5f}'.format((a+b)/2))
